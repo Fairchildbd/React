@@ -27,28 +27,28 @@ class LinearDeterminate extends React.Component {
                 Front End Development
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
-                HTML
-              </Typography>
-              <Typography component="p">
-                <LinearProgress color="primary" variant="determinate" value={80} />
-              </Typography>
-              <Typography variant="headline" component="h3" style={{padding: 10}}>
-                CSS
-              </Typography>
-              <Typography component="p">
-                <LinearProgress color="primary" variant="determinate" value={65} />
-              </Typography>
-              <Typography variant="headline" component="h3" style={{padding: 10}}>
                 JavaScript
               </Typography>
               <Typography component="p">
                 <LinearProgress color="primary" variant="determinate" value={80} />
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
-                React/Redux
+                React/React-Native
               </Typography>
               <Typography component="p">
-                <LinearProgress color="primary" variant="determinate" value={30} />
+                <LinearProgress color="primary" variant="determinate" value={80} />
+              </Typography>
+              <Typography variant="headline" component="h3" style={{padding: 10}}>
+                Redux/Redux-Saga/Redux-Persist
+              </Typography>
+              <Typography component="p">
+                <LinearProgress color="primary" variant="determinate" value={65} />
+              </Typography>
+              <Typography variant="headline" component="h3" style={{padding: 10}}>
+                HTML/CSS
+              </Typography>
+              <Typography component="p">
+                <LinearProgress color="primary" variant="determinate" value={80} />
               </Typography>
             </Paper>
           </Grid>
@@ -58,7 +58,7 @@ class LinearDeterminate extends React.Component {
                 Back End Development
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
-                Node/ExpressJS
+                Python
               </Typography>
               <Typography component="p">
                 <LinearProgress color="secondary" variant="determinate" value={40} />
@@ -67,16 +67,16 @@ class LinearDeterminate extends React.Component {
                 AWS
               </Typography>
               <Typography component="p">
-                <LinearProgress color="secondary" variant="determinate" value={15} />
+                <LinearProgress color="secondary" variant="determinate" value={30} />
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
-                MongoDB/Mongoose
+                Firebase
               </Typography>
               <Typography component="p">
                 <LinearProgress color="secondary" variant="determinate" value={30} />
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
-                Python
+                Node/ExpressJS/MongoDB
               </Typography>
               <Typography component="p">
                 <LinearProgress color="secondary" variant="determinate" value={40} />

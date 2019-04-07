@@ -19,10 +19,23 @@ function ExperienceSheet(props) {
     <div>
       <Paper className={classes.root} elevation={3} style={{margin: 10}}>
         <Typography variant="headline" component="h3">
+          Software Engineer - J.B. Hunt Lowell, AR
+        </Typography>
+        <Typography variant="title" component="p">
+          09/2018 to Present
+        </Typography>
+        <Typography variant="body2" component="p">
+          Work on the Front End side of the Carrier 360 mobile application in an Agile environment using:  React-Native, Redux, Redux-Sagas, React-Navigation, and other dependencies.
+          Create end to end tests and unit tests with Jest, Enzyme, Detox, and Appium.
+          Focus on increasing performance in React applications by preventing re-renders.
+        </Typography>
+      </Paper>
+      <Paper className={classes.root} elevation={3} style={{margin: 10}}>
+        <Typography variant="headline" component="h3">
           Engagement Specialist - TrestleTree Fayetteville, AR
         </Typography>
         <Typography variant="title" component="p">
-          3/2017 to Present
+          3/2017 to 10/2018
         </Typography>
         <Typography variant="body2" component="p">
           Create exceptional customer service experiences. Perform random daily tasks in order to help others meet tight deadlines. Help customers understand best health practices, and give health advice when appropriate.
