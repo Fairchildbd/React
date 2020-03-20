@@ -21,11 +21,6 @@ const theme = createMuiTheme({
   status: {
     danger: 'orange',
   },
-  // palette: {
-  //   type: 'dark',
-  //   primary: blue,
-  //   secondary: green,
-  // },
 });
 
 export default function App() {
@@ -33,7 +28,6 @@ export default function App() {
       currentScreen: 'Home',
       open: false,
     });
-    console.log('state', state);
     const choseMyScreen = () => {
       if (state.currentScreen === 'Home') {
         return (<Home currentScreen={ state.currentScreen }/>);
