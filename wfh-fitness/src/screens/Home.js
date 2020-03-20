@@ -36,7 +36,7 @@ export default function HomeScreen(props) {
               </Typography>
               <Typography variant="subtitle1" align='left'>
                 My name is Ben, I'm a strength coach and mobile app developer!
-                Remote Fitness is a site dedicated to helping friends and family while being we are all working remote during the coronavirus pandemic!
+                Quarantine Fitness is a site dedicated to helping friends and family while being we are all working remote during the coronavirus pandemic!
               </Typography>
             </Paper>
             <Paper className={classes.paper} elevation={6} >

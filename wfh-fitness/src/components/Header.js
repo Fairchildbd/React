@@ -26,7 +26,7 @@ export default function ButtonAppBar(props) {
         <Toolbar>
           <RFDrawer { ...props } edge="start" className={classes.menuButton} />
           <Typography variant="h6" className={classes.title}>
-            Remote Fitness
+            Quarantine Fitness
           </Typography>
           { RFModal() }
         </Toolbar>
