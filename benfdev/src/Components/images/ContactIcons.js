@@ -58,13 +58,13 @@ class FontAwesome extends React.Component {
           style={{ fontSize: 42 }}
         />
         </Button>
-        <Button href="http://weatherapp-1.us-east-2.elasticbeanstalk.com/" target="_blank">
+        {/* <Button href="http://weatherapp-1.us-east-2.elasticbeanstalk.com/" target="_blank">
           <Icon
             className={classNames(classes.iconHover, 'fas fa-bolt')}
             color="inherit"
             style={{ fontSize: 42 }}
           />
-        </Button>
+        </Button> */}
         <Button href="https://twitter.com/Fairchildbd" target="_blank">
         <Icon
           className={classNames(classes.iconHover, 'fab fa-twitter')}

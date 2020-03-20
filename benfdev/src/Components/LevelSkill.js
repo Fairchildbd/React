@@ -39,16 +39,16 @@ class LinearDeterminate extends React.Component {
                 <LinearProgress color="primary" variant="determinate" value={80} />
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
-                Redux/Redux-Saga/Redux-Persist
+                Redux/Redux-Saga
               </Typography>
               <Typography component="p">
-                <LinearProgress color="primary" variant="determinate" value={65} />
+                <LinearProgress color="primary" variant="determinate" value={80} />
               </Typography>
               <Typography variant="headline" component="h3" style={{padding: 10}}>
                 HTML/CSS
               </Typography>
               <Typography component="p">
-                <LinearProgress color="primary" variant="determinate" value={80} />
+                <LinearProgress color="primary" variant="determinate" value={90} />
               </Typography>
             </Paper>
           </Grid>

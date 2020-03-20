@@ -25,9 +25,10 @@ function ExperienceSheet(props) {
           09/2018 to Present
         </Typography>
         <Typography variant="body2" component="p">
-          Work on the Front End side of the Carrier 360 mobile application in an Agile environment using:  React-Native, Redux, Redux-Sagas, React-Navigation, and other dependencies.
-          Create end to end tests and unit tests with Jest, Enzyme, Detox, and Appium.
-          Focus on increasing performance in React applications by preventing re-renders.
+          Work on the Front End side of the Carrier 360 mobile application in an Agile environment using:  React-Native, Redux, Redux-Sagas, React-Navigation, and other popular dependencies. <br/>
+          Implemented changes across multiple teams to aid in server side rendering of legal jargon. <br/>
+          Work closely with project owners to better understand the logistics business. <br/>
+          Implemented major tech initiatives, features, and quality to help the Carrier 360 reach 4.2 stars in the app store.
         </Typography>
       </Paper>
       <Paper className={classes.root} elevation={3} style={{margin: 10}}>

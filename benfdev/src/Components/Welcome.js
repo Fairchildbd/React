@@ -22,7 +22,7 @@ function WelcomeSheet(props) {
           Hi, I'm Ben!
         </Typography>
         <Typography variant="headline" component="p">
-          I am Strength Coach turned Web Developer!  I currently serve both roles in the Northwest Arkansas area!
+          I am Strength Coach turned Mobile Developer!  I currently work as a Mobile Developer in the Northwest Arkansas area!
         </Typography>
       </Paper>
     </div>
